@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Backup files
+*.bak
+*.py.bak
+**/evolved/backup_*.json
+
+# Test coverage
+htmlcov/
+.coverage
+.coverage.*
+
+# Environment
+.env
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Simulation logs (large files)
+simulation/logs/*.jsonl
+
+# Local runtime / eval artifacts
+_artifacts/
+data/
+.codex/
+.pytest_cache/
+_nul

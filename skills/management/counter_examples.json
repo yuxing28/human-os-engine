@@ -1,0 +1,110 @@
+[
+  {
+    "goal": "motivation_boost",
+    "strategy": "懒惰+互惠",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "low"
+    },
+    "failure_type": "",
+    "failure_code": "",
+    "attribution": {},
+    "timestamp": 1775743522.8068154
+  },
+  {
+    "goal": "motivation_boost",
+    "strategy": "懒惰+互惠",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "low"
+    },
+    "failure_type": "",
+    "failure_code": "",
+    "attribution": {},
+    "timestamp": 1775744900.5537293
+  },
+  {
+    "goal": "motivation_boost",
+    "strategy": "懒惰+互惠",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "low"
+    },
+    "failure_type": "",
+    "failure_code": "",
+    "attribution": {},
+    "timestamp": 1775745211.6231215
+  },
+  {
+    "goal": "motivation_boost",
+    "strategy": "懒惰+互惠",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "low"
+    },
+    "failure_type": "",
+    "failure_code": "",
+    "attribution": {
+      "what_changed": "本轮策略/武器组合执行",
+      "expected_improvement": "提升相关性、共情和推进拿捏",
+      "observed_metrics": {
+        "judge_result": {},
+        "feedback": "negative"
+      },
+      "inferred_reason": {
+        "failure_type": "",
+        "failure_code": ""
+      },
+      "decision": "record_failure"
+    },
+    "timestamp": 1776231526.7512407
+  },
+  {
+    "goal": "motivation_boost",
+    "strategy": "懒惰+互惠",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "low"
+    },
+    "failure_type": "",
+    "failure_code": "",
+    "attribution": {
+      "what_changed": "本轮策略/武器组合执行",
+      "expected_improvement": "提升相关性、共情和推进拿捏",
+      "observed_metrics": {
+        "judge_result": {},
+        "feedback": "negative"
+      },
+      "inferred_reason": {
+        "failure_type": "",
+        "failure_code": ""
+      },
+      "decision": "record_failure"
+    },
+    "timestamp": 1776231657.1856432
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "权威+案例",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "low"
+    },
+    "failure_type": "",
+    "failure_code": "",
+    "attribution": {
+      "what_changed": "本轮策略/武器组合执行",
+      "expected_improvement": "提升相关性、共情和推进拿捏",
+      "observed_metrics": {
+        "judge_result": {},
+        "feedback": "negative"
+      },
+      "inferred_reason": {
+        "failure_type": "",
+        "failure_code": ""
+      },
+      "decision": "record_failure"
+    },
+    "timestamp": 1776922782.2188568
+  }
+]

@@ -1,0 +1,329 @@
+{
+  "scene_id": "negotiation",
+  "version": "1.0.0",
+  "description": "高风险商务谈判场景（2026 版）：涵盖锚定、BATNA、多边博弈等 16 个核心目标",
+  "goal_taxonomy": [
+    {
+      "granular_goal": "negotiation.anchor_reset",
+      "display_name": "锚定重置",
+      "description": "重新校准谈判参考基准，抵消对手先入为主的报价",
+      "keywords": [
+        "预算上限", "多一分钱", "董事会特批", "行业均值", "成本拆解", "第三方数据", "逻辑", "核算模型"
+      ],
+      "emotion_hints": ["愤怒", "急躁"],
+      "default_mode": "B",
+      "forced_combo": "权威+共识",
+      "banned_combos": ["好奇+稀缺", "贪婪+恐惧"],
+      "strategy_preferences": [
+        { "combo": "权威+共识", "weight": 0.9 },
+        { "combo": "提供确定性+案例证明", "weight": 0.7 }
+      ],
+      "forbidden_weapons": ["制造紧迫感", "威胁", "描绘共同未来"],
+      "success_criteria": { "user_says": ["从新维度", "重新评估", "有道理"], "emotion_drop": 0.2, "trust_increase": 0.1 }
+    },
+    {
+      "granular_goal": "negotiation.batna_strengthening",
+      "display_name": "BATNA 增强",
+      "description": "通过开发外部备选方案来增强谈判底气",
+      "keywords": [
+        "备选", "第三方询价", "自研计划", "延期选项", "冗余方案", "寻找他途", "替代供应商", "内部研发"
+      ],
+      "emotion_hints": ["平静", "自信"],
+      "default_mode": "B",
+      "forced_combo": "好奇+稀缺",
+      "banned_combos": ["共情+正常化", "懒惰+互惠"],
+      "strategy_preferences": [
+        { "combo": "好奇+稀缺", "weight": 0.9 },
+        { "combo": "权威+共识", "weight": 0.6 }
+      ],
+      "forbidden_weapons": ["制造紧迫感", "威胁", "描绘共同未来"],
+      "success_criteria": { "user_says": ["流失风险", "让步", "知道了"], "emotion_drop": 0.1, "trust_increase": 0.1 }
+    },
+    {
+      "granular_goal": "negotiation.interest_probing",
+      "display_name": "利益探寻",
+      "description": "穿透表面立场，识别对方真实底层需求",
+      "keywords": [
+        "为什么", "您的担忧是", "如果...会", "底层逻辑", "核心优先级", "目标对齐", "除了价格", "风险点"
+      ],
+      "emotion_hints": ["平静", "好奇"],
+      "default_mode": "B",
+      "forced_combo": "好奇+稀缺",
+      "banned_combos": ["权威+共识", "贪婪+恐惧"],
+      "strategy_preferences": [
+        { "combo": "好奇+稀缺", "weight": 0.9 },
+        { "combo": "共情+正常化", "weight": 0.6 }
+      ],
+      "forbidden_weapons": ["制造紧迫感", "威胁", "描绘共同未来"],
+      "success_criteria": { "user_says": ["痛点", "真实想法", "分享"], "emotion_drop": 0.1, "trust_increase": 0.15 }
+    },
+    {
+      "granular_goal": "negotiation.value_articulation",
+      "display_name": "价值阐述",
+      "description": "将讨论重点从投入成本转移至产出价值与 ROI",
+      "keywords": [
+        "业务成果", "ROI", "风险降低", "战略对齐", "收入加速", "生命周期价值", "商业影响", "成功标准"
+      ],
+      "emotion_hints": ["热情", "专业"],
+      "default_mode": "B",
+      "forced_combo": "提供确定性+案例证明",
+      "banned_combos": ["好奇+稀缺", "贪婪+恐惧"],
+      "strategy_preferences": [
+        { "combo": "提供确定性+案例证明", "weight": 0.9 },
+        { "combo": "权威+共识", "weight": 0.6 }
+      ],
+      "forbidden_weapons": ["制造紧迫感", "威胁", "描绘共同未来"],
+      "success_criteria": { "user_says": ["ROI", "内部计算", "价值"], "emotion_drop": 0.1, "trust_increase": 0.1 }
+    },
+    {
+      "granular_goal": "negotiation.consensus_alignment",
+      "display_name": "共识对齐",
+      "description": "在对方多利益相关者网格中寻找公约数",
+      "keywords": [
+        "跨部门共识", "内部障碍", "决策节点", "委员会", "IT/财务意见", "利益协调", "对齐", "合力"
+      ],
+      "emotion_hints": ["焦虑", "急躁"],
+      "default_mode": "B",
+      "forced_combo": "权威+共识",
+      "banned_combos": ["好奇+稀缺", "贪婪+恐惧"],
+      "strategy_preferences": [
+        { "combo": "权威+共识", "weight": 0.9 },
+        { "combo": "懒惰+互惠", "weight": 0.6 }
+      ],
+      "forbidden_weapons": ["制造紧迫感", "威胁", "描绘共同未来"],
+      "success_criteria": { "user_says": ["无异议", "共识", "通过"], "emotion_drop": 0.2, "trust_increase": 0.1 }
+    },
+    {
+      "granular_goal": "negotiation.concession_signaling",
+      "display_name": "让步信号",
+      "description": "通过有节奏、递减的让步传达底线接近",
+      "keywords": [
+        "作为交换", "如果您能", "我们最大限度", "最后努力", "平衡", "对等", "妥协点", "诚意"
+      ],
+      "emotion_hints": ["沉重", "犹豫"],
+      "default_mode": "A",
+      "forced_combo": "互惠+懒惰",
+      "banned_combos": ["权威+共识", "贪婪+恐惧"],
+      "strategy_preferences": [
+        { "combo": "互惠+懒惰", "weight": 0.9 },
+        { "combo": "共情+正常化", "weight": 0.6 }
+      ],
+      "forbidden_weapons": ["制造紧迫感", "威胁", "描绘共同未来"],
+      "success_criteria": { "user_says": ["回馈", "对等", "接受"], "emotion_drop": 0.1, "trust_increase": 0.1 }
+    },
+    {
+      "granular_goal": "negotiation.emotional_reframing",
+      "display_name": "情感重塑",
+      "description": "将对抗性负面情绪重塑为对实质性利益的关注",
+      "keywords": [
+        "我感受到", "这对您很重要", "反映了", "转化为", "让我们聚焦", "背后利益", "重塑", "新视角"
+      ],
+      "emotion_hints": ["愤怒", "急躁"],
+      "default_mode": "A",
+      "forced_combo": "共情+正常化",
+      "banned_combos": ["权威+共识", "贪婪+恐惧"],
+      "strategy_preferences": [
+        { "combo": "共情+正常化", "weight": 0.95 },
+        { "combo": "提供确定性+案例证明", "weight": 0.6 }
+      ],
+      "forbidden_weapons": ["制造紧迫感", "威胁", "描绘共同未来"],
+      "success_criteria": { "user_says": ["降温", "回归", "理解"], "emotion_drop": 0.3, "trust_increase": 0.15 }
+    },
+    {
+      "granular_goal": "negotiation.procedural_control",
+      "display_name": "程序控制",
+      "description": "确立谈判时间表、参与者及议程，防止过程性冗余",
+      "keywords": [
+        "议程安排", "时间节点", "下一步", "谁来决策", "会议规则", "关键路径", "截止日期", "讨论顺序"
+      ],
+      "emotion_hints": ["急躁", "愤怒"],
+      "default_mode": "B",
+      "forced_combo": "权威+共识",
+      "banned_combos": ["好奇+稀缺", "贪婪+恐惧"],
+      "strategy_preferences": [
+        { "combo": "权威+共识", "weight": 0.9 },
+        { "combo": "提供确定性+案例证明", "weight": 0.6 }
+      ],
+      "forbidden_weapons": ["制造紧迫感", "威胁", "描绘共同未来"],
+      "success_criteria": { "user_says": ["进入实质", "同意", "按议程"], "emotion_drop": 0.1, "trust_increase": 0.1 }
+    },
+    {
+      "granular_goal": "negotiation.uncertainty_buffering",
+      "display_name": "不确定性缓冲",
+      "description": "在合同中设计灵活条款以应对外部波动",
+      "keywords": [
+        "调价公式", "不可抗力", "灵活性", "外部指数", "对冲", "动态调整", "风险共担", "基准波动"
+      ],
+      "emotion_hints": ["焦虑", "恐惧"],
+      "default_mode": "B",
+      "forced_combo": "提供确定性+案例证明",
+      "banned_combos": ["好奇+稀缺", "贪婪+恐惧"],
+      "strategy_preferences": [
+        { "combo": "提供确定性+案例证明", "weight": 0.9 },
+        { "combo": "互惠+懒惰", "weight": 0.6 }
+      ],
+      "forbidden_weapons": ["制造紧迫感", "威胁", "描绘共同未来"],
+      "success_criteria": { "user_says": ["签署", "机制", "合理"], "emotion_drop": 0.2, "trust_increase": 0.1 }
+    },
+    {
+      "granular_goal": "negotiation.trust_building",
+      "display_name": "信任建设",
+      "description": "通过披露部分真实利益或提供先行保证建立信用",
+      "keywords": [
+        "公开透明", "验证", "试点", "小步快跑", "数据共享", "先行", "长期承诺", "互惠"
+      ],
+      "emotion_hints": ["怀疑", "焦虑"],
+      "default_mode": "A",
+      "forced_combo": "共情+正常化",
+      "banned_combos": ["权威+共识", "贪婪+恐惧"],
+      "strategy_preferences": [
+        { "combo": "共情+正常化", "weight": 0.9 },
+        { "combo": "提供确定性+案例证明", "weight": 0.7 }
+      ],
+      "forbidden_weapons": ["制造紧迫感", "威胁", "描绘共同未来"],
+      "success_criteria": { "user_says": ["共享", "信任", "试点"], "emotion_drop": 0.2, "trust_increase": 0.15 }
+    },
+    {
+      "granular_goal": "negotiation.strategic_impasse",
+      "display_name": "策略性僵局",
+      "description": "在原则问题受损时，主动发起有意义的停顿",
+      "keywords": [
+        "无法接受", "遗憾", "需要内部评估", "停顿", "重新考虑", "到此为止", "死锁", "退出谈判"
+      ],
+      "emotion_hints": ["愤怒", "坚定"],
+      "default_mode": "A",
+      "forced_combo": "懒惰+损失规避",
+      "banned_combos": ["好奇+稀缺", "贪婪+恐惧"],
+      "strategy_preferences": [
+        { "combo": "懒惰+损失规避", "weight": 0.9 },
+        { "combo": "权威+共识", "weight": 0.6 }
+      ],
+      "forbidden_weapons": ["制造紧迫感", "威胁", "描绘共同未来"],
+      "success_criteria": { "user_says": ["联系", "降低", "反思"], "emotion_drop": 0.2, "trust_increase": 0.1 }
+    },
+    {
+      "granular_goal": "negotiation.face_saving",
+      "display_name": "面子维护",
+      "description": "在对方让步时提供合理的心理台阶",
+      "keywords": [
+        "您之前的洞见", "由于环境变化", "这是基于您的", "我们都有责任", "双赢结果", "顺理成章", "台阶", "尊重"
+      ],
+      "emotion_hints": ["尴尬", "犹豫"],
+      "default_mode": "A",
+      "forced_combo": "共情+正常化",
+      "banned_combos": ["权威+共识", "贪婪+恐惧"],
+      "strategy_preferences": [
+        { "combo": "共情+正常化", "weight": 0.95 },
+        { "combo": "互惠+懒惰", "weight": 0.6 }
+      ],
+      "forbidden_weapons": ["制造紧迫感", "威胁", "描绘共同未来"],
+      "success_criteria": { "user_says": ["稳定", "接受", "双赢"], "emotion_drop": 0.2, "trust_increase": 0.1 }
+    },
+    {
+      "granular_goal": "negotiation.coalition_building",
+      "display_name": "联盟构建",
+      "description": "在多方博弈中寻找盟友，构建针对核心反对者的压力集群",
+      "keywords": [
+        "共同利益", "联合", "第三方支持", "协同", "共赢", "扩大同盟", "集体声音", "支持者"
+      ],
+      "emotion_hints": ["振奋", "焦虑"],
+      "default_mode": "B",
+      "forced_combo": "权威+共识",
+      "banned_combos": ["好奇+稀缺", "贪婪+恐惧"],
+      "strategy_preferences": [
+        { "combo": "权威+共识", "weight": 0.9 },
+        { "combo": "互惠+懒惰", "weight": 0.6 }
+      ],
+      "forbidden_weapons": ["制造紧迫感", "威胁", "描绘共同未来"],
+      "success_criteria": { "user_says": ["软化", "同意", "联盟"], "emotion_drop": 0.1, "trust_increase": 0.1 }
+    },
+    {
+      "granular_goal": "negotiation.creative_expansion",
+      "display_name": "创造性扩展",
+      "description": "引入非价格议题扩大利益蛋糕",
+      "keywords": [
+        "附加价值", "联合开发", "市场准入", "品牌共建", "延期付款", "生态合作", "创意", "溢出效应"
+      ],
+      "emotion_hints": ["兴奋", "热情"],
+      "default_mode": "B",
+      "forced_combo": "互惠+懒惰",
+      "banned_combos": ["权威+共识", "贪婪+恐惧"],
+      "strategy_preferences": [
+        { "combo": "互惠+懒惰", "weight": 0.9 },
+        { "combo": "提供确定性+案例证明", "weight": 0.6 }
+      ],
+      "forbidden_weapons": ["制造紧迫感", "威胁", "描绘共同未来"],
+      "success_criteria": { "user_says": ["交换", "非货币", "同意"], "emotion_drop": 0.1, "trust_increase": 0.15 }
+    },
+    {
+      "granular_goal": "negotiation.last_resort_pressure",
+      "display_name": "最后手段施压",
+      "description": "明确告知僵局将导致的具体、严重的损失",
+      "keywords": [
+        "如果不签", "后果是", "损失", "窗口关闭", "市场流失", "法律风险", "我们将不得不", "清算"
+      ],
+      "emotion_hints": ["愤怒", "坚定"],
+      "default_mode": "A",
+      "forced_combo": "懒惰+损失规避",
+      "banned_combos": ["好奇+稀缺", "贪婪+恐惧"],
+      "strategy_preferences": [
+        { "combo": "懒惰+损失规避", "weight": 0.9 },
+        { "combo": "权威+共识", "weight": 0.6 }
+      ],
+      "forbidden_weapons": ["制造紧迫感", "威胁", "描绘共同未来"],
+      "success_criteria": { "user_says": ["达成协议", "损失", "签署"], "emotion_drop": 0.2, "trust_increase": 0.1 }
+    },
+    {
+      "granular_goal": "negotiation.signal_decoding",
+      "display_name": "信号解码",
+      "description": "通过对方的声学、语态及微行为识别其真实底线",
+      "keywords": [
+        "语调", "停顿", "犹豫", "反应速度", "声纹特征", "焦虑指标", "底线探测", "真实信号"
+      ],
+      "emotion_hints": ["平静", "敏锐"],
+      "default_mode": "B",
+      "forced_combo": "好奇+稀缺",
+      "banned_combos": ["权威+共识", "贪婪+恐惧"],
+      "strategy_preferences": [
+        { "combo": "好奇+稀缺", "weight": 0.9 },
+        { "combo": "提供确定性+案例证明", "weight": 0.6 }
+      ],
+      "forbidden_weapons": ["制造紧迫感", "威胁", "描绘共同未来"],
+      "success_criteria": { "user_says": ["识破", "底线", "信号"], "emotion_drop": 0.1, "trust_increase": 0.1 }
+    }
+  ],
+  "default_strategy_weights": {
+    "权威+共识": 0.8,
+    "共情+正常化": 0.7,
+    "提供确定性+案例证明": 0.7,
+    "互惠+懒惰": 0.6,
+    "好奇+稀缺": 0.6,
+    "懒惰+损失规避": 0.6
+  },
+  "weapon_blacklist": {
+    "emotion_愤怒": ["描绘共同未来", "给予价值", "赋予身份", "授权"],
+    "emotion_恐惧": ["制造紧迫感", "威胁", "质疑"],
+    "goal_negotiation.anchor_reset": ["制造紧迫感", "威胁", "描绘共同未来"],
+    "goal_negotiation.batna_strengthening": ["制造紧迫感", "威胁", "描绘共同未来"],
+    "goal_negotiation.interest_probing": ["制造紧迫感", "威胁", "描绘共同未来"],
+    "goal_negotiation.value_articulation": ["制造紧迫感", "威胁", "描绘共同未来"],
+    "goal_negotiation.consensus_alignment": ["制造紧迫感", "威胁", "描绘共同未来"],
+    "goal_negotiation.concession_signaling": ["制造紧迫感", "威胁", "描绘共同未来"],
+    "goal_negotiation.emotional_reframing": ["制造紧迫感", "威胁", "描绘共同未来"],
+    "goal_negotiation.procedural_control": ["制造紧迫感", "威胁", "描绘共同未来"],
+    "goal_negotiation.uncertainty_buffering": ["制造紧迫感", "威胁", "描绘共同未来"],
+    "goal_negotiation.trust_building": ["制造紧迫感", "威胁", "描绘共同未来"],
+    "goal_negotiation.strategic_impasse": ["制造紧迫感", "威胁", "描绘共同未来"],
+    "goal_negotiation.face_saving": ["制造紧迫感", "威胁", "描绘共同未来"],
+    "goal_negotiation.coalition_building": ["制造紧迫感", "威胁", "描绘共同未来"],
+    "goal_negotiation.creative_expansion": ["制造紧迫感", "威胁", "描绘共同未来"],
+    "goal_negotiation.last_resort_pressure": ["制造紧迫感", "威胁", "描绘共同未来"],
+    "goal_negotiation.signal_decoding": ["制造紧迫感", "威胁", "描绘共同未来"]
+  },
+  "eval_weights": {
+    "instrumental_value": 0.4,
+    "relational_equity": 0.3,
+    "structural_efficiency": 0.2,
+    "ai_calibration_accuracy": 0.1
+  }
+}

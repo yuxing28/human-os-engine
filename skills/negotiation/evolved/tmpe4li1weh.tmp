@@ -1,0 +1,17 @@
+{
+  "base_version": "1.0.0",
+  "evolved_at": "2026-04-09T03:09:11Z",
+  "iterations": 169,
+  "strategy_weights": {
+    "negotiation.anchor_reset::": 0.5499999999999996,
+    "negotiation::negotiation.concession_signaling::": 0.1,
+    "negotiation::negotiation.consensus_alignment::": 0.8079999999999998,
+    "negotiation::negotiation.batna_strengthening::": 0.8799999999999999
+  },
+  "weapon_blacklist_additions": {},
+  "performance_metrics": {
+    "total_interactions": 169,
+    "success_count": 25,
+    "success_rate": 0.14792899408284024
+  }
+}

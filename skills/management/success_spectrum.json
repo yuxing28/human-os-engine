@@ -1,0 +1,2002 @@
+[
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775926130.88555
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775953624.2660773
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775957509.4768302
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775957539.7038903
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775957570.3307514
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775960518.2008936
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775960549.8003817
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775960584.9333122
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775964154.1741686
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775967312.381524
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776001312.2658412
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "懒惰+互惠",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776231522.5834222
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "懒惰+互惠",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776231653.2137487
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "权威+案例",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776354452.8949082
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "懒惰+互惠",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776354472.090687
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776354507.4888077
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776354530.6312628
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "懒惰+互惠",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776354551.894586
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776354570.890854
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "懒惰+互惠",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776354611.3372805
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776354629.1696665
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "懒惰+互惠",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776354647.8465526
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776354662.9643254
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776354677.7778814
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776354717.7148204
+  },
+  {
+    "goal": "cross_functional_mediation",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776355629.376093
+  },
+  {
+    "goal": "cross_functional_mediation",
+    "strategy": "权威+案例",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776355649.9572845
+  },
+  {
+    "goal": "cross_functional_mediation",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776355692.3378713
+  },
+  {
+    "goal": "cross_functional_mediation",
+    "strategy": "权威+案例",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776355759.1832435
+  },
+  {
+    "goal": "cross_functional_mediation",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776355866.6882334
+  },
+  {
+    "goal": "cross_functional_mediation",
+    "strategy": "权威+案例",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776355884.2303295
+  },
+  {
+    "goal": "cross_functional_mediation",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776355930.3015187
+  },
+  {
+    "goal": "cross_functional_mediation",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776355989.1182945
+  },
+  {
+    "goal": "performance_improvement",
+    "strategy": "权威+案例",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776356808.5234246
+  },
+  {
+    "goal": "performance_improvement",
+    "strategy": "权威+案例",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776356866.9525473
+  },
+  {
+    "goal": "performance_improvement",
+    "strategy": "懒惰+互惠",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776356885.9080217
+  },
+  {
+    "goal": "performance_improvement",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776356998.3645992
+  },
+  {
+    "goal": "performance_improvement",
+    "strategy": "权威+案例",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776357014.6106162
+  },
+  {
+    "goal": "performance_improvement",
+    "strategy": "权威+案例",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776357051.0680037
+  },
+  {
+    "goal": "performance_improvement",
+    "strategy": "权威+案例",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776357083.9795573
+  },
+  {
+    "goal": "conflict_resolution",
+    "strategy": "反问+贴标签",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776357930.499939
+  },
+  {
+    "goal": "conflict_resolution",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776357966.1751735
+  },
+  {
+    "goal": "performance_improvement",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776358020.4437034
+  },
+  {
+    "goal": "performance_improvement",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776358057.6792295
+  },
+  {
+    "goal": "performance_improvement",
+    "strategy": "反问+贴标签",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776358073.247964
+  },
+  {
+    "goal": "performance_improvement",
+    "strategy": "反问+贴标签",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776358124.174065
+  },
+  {
+    "goal": "performance_improvement",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776358163.4862561
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "权威+案例",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776441578.4570243
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776441596.2294464
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776441624.18203
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "权威+案例",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776441643.565403
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "权威+案例",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776441663.136113
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776441680.8595726
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "权威+案例",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776441720.6832197
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "权威+案例",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776444025.883908
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "权威+案例",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776444044.4636734
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776444067.5691671
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "权威+案例",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776444086.2983656
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "权威+案例",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776444100.1373897
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776444119.241374
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "挫败",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776444184.1249628
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "权威+案例",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776444201.6122954
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776444219.806649
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776444242.659137
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "权威+案例",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776471921.8767736
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776471935.9864068
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776471957.1749523
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776471972.7566268
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776471987.098383
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776472003.337623
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "权威+案例",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776473894.1903617
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "权威+案例",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776473908.3597639
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776473928.3788
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "权威+案例",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776473945.8120968
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776473961.1661637
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776473976.751905
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "挫败",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776474033.8450403
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "权威+案例",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776474049.83956
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776474064.2324896
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776474077.0192084
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776480230.9317622
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776480245.2506304
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776480269.9121175
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776480283.11981
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "懒惰+互惠",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776480296.440597
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776480309.7741091
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776482138.9876754
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776482154.203288
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776482174.5196273
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776482190.5361426
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776482205.2218478
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776482220.4506598
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776482256.8990195
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776482272.6866379
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776482288.083949
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776482302.6769629
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776482314.6275218
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776484716.8017309
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776484731.6921353
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776484750.3796198
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776484763.9901965
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776484775.045495
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776484790.0774167
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776486567.6009378
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776486580.852295
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776486598.8575263
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776486611.947468
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776486622.1244478
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776486635.8408356
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776486667.240003
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776486682.0340939
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776486695.1560578
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "懒惰+互惠",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776486705.3255227
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776486716.0988324
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776491950.326601
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776491964.90025
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776491983.7051468
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776491997.204214
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776492008.07556
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776492022.7681623
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776493839.8215332
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776493853.9521604
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776493872.757649
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776493887.6281726
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "懒惰+互惠",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776493901.9469764
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776493916.5082984
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776493948.886572
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776493963.7525668
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776493977.7094755
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776493988.8557584
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776493999.8417945
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776499857.9908235
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "懒惰+互惠",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776499872.5960283
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776499891.834426
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776499906.3377054
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776499920.260047
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776499935.0465653
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776501872.952239
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776501887.8983924
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776501908.285878
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776501922.7600646
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "懒惰+互惠",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776501936.6788855
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776501951.6143105
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "挫败",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776502005.0590696
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776502019.0037172
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "懒惰+互惠",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776502033.377863
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "懒惰+互惠",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776502047.4878902
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776524383.0987244
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776524400.423548
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "知识咨询",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776524421.6085129
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "知识咨询",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776524440.3594768
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776524458.2189493
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776524515.7932181
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776526652.6553798
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "懒惰+互惠",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776526670.6093974
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "知识咨询",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776526697.0564976
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "知识咨询",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776526716.7339177
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776526733.241279
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776526789.6913526
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "向下管理：批评敏感型下属",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776526803.8576546
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776526851.344237
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776546606.9160907
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776546623.0499856
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "知识咨询",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776546644.0820205
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "知识咨询",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776546659.6044447
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776546675.0700586
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776546723.4568887
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776548596.0374174
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776548611.5728064
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "知识咨询",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776548632.195048
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "知识咨询",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776548648.3965743
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776548663.3626115
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776548712.8977075
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "向下管理：批评敏感型下属",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776548725.8276863
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776548757.210064
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776591960.902324
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776592548.1447759
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776592822.3420608
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776593136.393106
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776593418.1283257
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776593953.8932068
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776594276.3910906
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776594615.9551625
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776595023.0212247
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776595156.1328013
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776667302.4945848
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776703082.5870323
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776703101.6803446
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "知识咨询",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776703124.4489717
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "知识咨询",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776703143.090819
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776703165.7631319
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776703219.1578233
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776705236.7577457
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "懒惰+互惠",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776705251.1372507
+  },
+  {
+    "goal": "task_acceptance",
+    "strategy": "知识咨询",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776705270.6533456
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "知识咨询",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776705286.1959283
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776705301.1763017
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776705345.6542485
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "向下管理：批评敏感型下属",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776705357.5523434
+  },
+  {
+    "goal": "upward_expectation_management",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776705387.906298
+  }
+]

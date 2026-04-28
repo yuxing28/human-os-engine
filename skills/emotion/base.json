@@ -1,0 +1,265 @@
+{
+  "scene_id": "emotion",
+  "version": "1.0.0",
+  "description": "关系沟通与情绪支持场景（基于 Gottman/非暴力沟通/C-SSRS 等临床证据）",
+  "goal_taxonomy": [
+    {
+      "granular_goal": "emotion.safety_screening",
+      "display_name": "安全红线筛查",
+      "description": "实时监测生命安全风险、暴力风险及强制控制迹象，触发紧急干预",
+      "keywords": ["结束生命", "没意义", "安眠药", "遗书", "我的密码", "他盯着我", "不敢出门", "去死", "伤害", "没路了", "活不下去", "跳下去", "想死", "自杀", "自残", "割腕", "不想活", "死了算了", "监控我", "控制我", "不让我出门", "拿走身份证", "打我", "家暴"],
+      "emotion_hints": ["绝望", "恐惧", "愤怒", "挫败"],
+      "default_mode": "A",
+      "forced_combo": "共情+正常化",
+      "strategy_preferences": [
+        {"combo": "共情+正常化", "weight": 0.95},
+        {"combo": "提供确定性+案例证明", "weight": 0.7},
+        {"combo": "沉默+示弱", "weight": 0.5}
+      ],
+      "forbidden_weapons": ["制造紧迫感", "威胁", "质疑", "描绘共同未来"],
+      "success_criteria": {
+        "user_says": ["好点", "谢谢你", "冷静了"],
+        "emotion_drop": 0.3,
+        "trust_increase": 0.15
+      }
+    },
+    {
+      "granular_goal": "emotion.deescalate_conflict",
+      "display_name": "冲突降级",
+      "description": "在冲突爆发期通过生理自愈指导及词汇软化，防止交互陷入恶性螺旋",
+      "keywords": ["冷静下", "暂停", "呼吸", "我们都很激动", "先停一停", "十五分钟", "别吵了", "都别说了", "我需要冷静", "先冷静", "吵不下去了", "太激动了", "说不下去了"],
+      "emotion_hints": ["愤怒", "急躁", "挫败"],
+      "default_mode": "A",
+      "forced_combo": "共情+正常化",
+      "strategy_preferences": [
+        {"combo": "共情+正常化", "weight": 0.9},
+        {"combo": "沉默+示弱", "weight": 0.7},
+        {"combo": "转移话题+原则", "weight": 0.5}
+      ],
+      "forbidden_weapons": ["制造紧迫感", "威胁", "描绘共同未来", "赋予身份"],
+      "success_criteria": {
+        "user_says": ["好", "嗯", "先这样吧"],
+        "emotion_drop": 0.3,
+        "trust_increase": 0.1
+      }
+    },
+    {
+      "granular_goal": "emotion.validate_feeling",
+      "display_name": "感受验证",
+      "description": "精准命名用户情绪并承认其合理性，建立共情连接",
+      "keywords": ["你能理解我吗", "没人懂我", "我很难受", "我觉得委屈", "我好累", "心好痛", "没有人关心", "不被理解", "被忽视", "被冷落", "被否定", "被冤枉"],
+      "emotion_hints": ["挫败", "迷茫", "焦虑", "平静"],
+      "default_mode": "B",
+      "strategy_preferences": [
+        {"combo": "共情+正常化", "weight": 0.95},
+        {"combo": "好奇+价值", "weight": 0.6},
+        {"combo": "提供确定性+案例证明", "weight": 0.5}
+      ],
+      "forbidden_weapons": ["威胁", "质疑", "嘲讽", "指责"],
+      "success_criteria": {
+        "user_says": ["是的", "就是这种感觉", "你懂我", "对"],
+        "emotion_drop": 0.2,
+        "trust_increase": 0.15
+      }
+    },
+    {
+      "granular_goal": "emotion.identify_unmet_need",
+      "display_name": "未满足需求识别",
+      "description": "透过攻击性语言，提取底层未满足的普遍人类需求",
+      "keywords": ["你实际上需要", "对你来说最重要的是", "尊重", "自主", "连接", "安全", "被看见", "被认可", "被重视", "被接纳", "被爱", "归属感", "自由", "空间"],
+      "emotion_hints": ["愤怒", "挫败", "焦虑"],
+      "default_mode": "B",
+      "strategy_preferences": [
+        {"combo": "好奇+价值", "weight": 0.85},
+        {"combo": "共情+正常化", "weight": 0.7},
+        {"combo": "提供确定性+案例证明", "weight": 0.5}
+      ],
+      "forbidden_weapons": ["威胁", "质疑", "贴标签", "指责"],
+      "success_criteria": {
+        "user_says": ["对", "我需要", "我想要"],
+        "emotion_drop": 0.2,
+        "trust_increase": 0.1
+      }
+    },
+    {
+      "granular_goal": "emotion.cognitive_reappraisal",
+      "display_name": "认知重评引导",
+      "description": "引导用户从更具功能性、多维度的角度重新解读负面事件",
+      "keywords": ["另一种解释", "他的初衷可能是", "如果换成", "会怎么想", "事实证据", "换个角度", "也许", "可能", "有没有可能", "会不会是", "是不是误会", "想多了"],
+      "emotion_hints": ["平静", "迷茫", "焦虑"],
+      "default_mode": "A",
+      "strategy_preferences": [
+        {"combo": "好奇+价值", "weight": 0.8},
+        {"combo": "提供确定性+案例证明", "weight": 0.7},
+        {"combo": "权威+案例", "weight": 0.5}
+      ],
+      "forbidden_weapons": ["威胁", "嘲讽", "指责", "贴标签"],
+      "success_criteria": {
+        "user_says": ["也许吧", "有道理", "我没想过"],
+        "emotion_drop": 0.15,
+        "trust_increase": 0.1
+      }
+    },
+    {
+      "granular_goal": "emotion.repair_attempt_guide",
+      "display_name": "修复尝试指导",
+      "description": "在冲突缓和期，引导用户发起微小、非正式的连接动作以打破僵局",
+      "keywords": ["试着幽默一下", "抱抱", "道歉", "刚才我不该", "能不能一起", "和好", "破冰", "缓和", "台阶", "给个面子", "先低头", "主动一点"],
+      "emotion_hints": ["平静", "焦虑"],
+      "default_mode": "B",
+      "strategy_preferences": [
+        {"combo": "共情+正常化", "weight": 0.8},
+        {"combo": "互惠+懒惰", "weight": 0.6},
+        {"combo": "好奇+价值", "weight": 0.5}
+      ],
+      "forbidden_weapons": ["威胁", "制造紧迫感", "嘲讽"],
+      "success_criteria": {
+        "user_says": ["我试试", "好", "也许可以"],
+        "emotion_drop": 0.15,
+        "trust_increase": 0.15
+      }
+    },
+    {
+      "granular_goal": "emotion.boundary_setting",
+      "display_name": "边界表达辅助",
+      "description": "协助用户清晰、有力且无攻击性地传达个人限度",
+      "keywords": ["我不接受", "这是我的底线", "当", "发生时我会选择离开", "我需要尊重", "不能这样", "太过分了", "忍不了", "不能再这样", "我的原则", "我的规矩"],
+      "emotion_hints": ["愤怒", "急躁", "挫败"],
+      "default_mode": "A",
+      "strategy_preferences": [
+        {"combo": "纠正+设界", "weight": 0.85},
+        {"combo": "转移话题+原则", "weight": 0.7},
+        {"combo": "提供确定性+案例证明", "weight": 0.5}
+      ],
+      "forbidden_weapons": ["威胁", "嘲讽", "描绘共同未来"],
+      "success_criteria": {
+        "user_says": ["好", "我知道了", "我会说清楚"],
+        "emotion_drop": 0.2,
+        "trust_increase": 0.1
+      }
+    },
+    {
+      "granular_goal": "emotion.anti_disinhibition_audit",
+      "display_name": "去抑制行为审计",
+      "description": "识别并拦截线上沟通中因匿名带来的攻击性、羞辱性或虚假亲密行为",
+      "keywords": ["你是谁", "你算什么", "虚拟", "不用负责", "你是我的全部", "只有你懂我", "永远活在", "隔着屏幕", "有种地址发给我", "网暴", "人肉", "曝光你"],
+      "emotion_hints": ["愤怒", "急躁", "平静"],
+      "default_mode": "C",
+      "strategy_preferences": [
+        {"combo": "纠正+设界", "weight": 0.85},
+        {"combo": "反问+贴标签", "weight": 0.7},
+        {"combo": "转移话题+原则", "weight": 0.5}
+      ],
+      "forbidden_weapons": ["威胁", "嘲讽", "描绘共同未来", "赋予身份"],
+      "success_criteria": {
+        "user_says": ["好吧", "你说得对", "我冷静一下"],
+        "emotion_drop": 0.25,
+        "trust_increase": 0.1
+      }
+    },
+    {
+      "granular_goal": "emotion.physiological_soothing",
+      "display_name": "生理自愈引导",
+      "description": "指导用户通过呼吸、肌肉放松或注意力切换降低生理唤醒水平",
+      "keywords": ["深呼吸", "54321", "数颜色", "喝口水", "放下手机", "喘不过气", "心跳好快", "手抖", "快失控", "要崩溃了", "快疯了", "受不了了", "要爆炸了", "快要打他了"],
+      "emotion_hints": ["愤怒", "恐惧", "挫败"],
+      "default_mode": "A",
+      "forced_combo": "共情+正常化",
+      "strategy_preferences": [
+        {"combo": "共情+正常化", "weight": 0.95},
+        {"combo": "沉默+示弱", "weight": 0.6},
+        {"combo": "互惠+懒惰", "weight": 0.4}
+      ],
+      "forbidden_weapons": ["制造紧迫感", "威胁", "描绘共同未来", "赋予身份"],
+      "success_criteria": {
+        "user_says": ["好点", "呼吸慢了些", "平静了"],
+        "emotion_drop": 0.3,
+        "trust_increase": 0.15
+      }
+    },
+    {
+      "granular_goal": "emotion.guilt_to_responsibility",
+      "display_name": "愧疚转责任",
+      "description": "引导用户从自我贬低（愧疚）转向具体的补救方案（责任）",
+      "keywords": ["我就是个烂人", "都是我的错", "我活该", "我不配", "我太差了", "我毁了", "补救", "下一步", "怎么做", "怎么弥补", "怎么修复", "原谅自己"],
+      "emotion_hints": ["挫败", "迷茫", "焦虑"],
+      "default_mode": "B",
+      "strategy_preferences": [
+        {"combo": "共情+正常化", "weight": 0.8},
+        {"combo": "好奇+价值", "weight": 0.7},
+        {"combo": "提供确定性+案例证明", "weight": 0.6}
+      ],
+      "forbidden_weapons": ["威胁", "嘲讽", "指责", "贴标签"],
+      "success_criteria": {
+        "user_says": ["我可以做", "好", "我试试"],
+        "emotion_drop": 0.2,
+        "trust_increase": 0.1
+      }
+    },
+    {
+      "granular_goal": "emotion.resource_management",
+      "display_name": "认知资源调度",
+      "description": "识别环境压力导致的情感失调，引导用户进行资源管理而非情绪纠结",
+      "keywords": ["累坏了", "没时间", "压力大", "睡不着", "不想动", "太多事了", "快撑不住了", " burnout", "精疲力尽", "撑不下去", "太累了", "扛不住", "心力交瘁"],
+      "emotion_hints": ["挫败", "焦虑", "平静"],
+      "default_mode": "A",
+      "strategy_preferences": [
+        {"combo": "共情+正常化", "weight": 0.85},
+        {"combo": "互惠+懒惰", "weight": 0.7},
+        {"combo": "提供确定性+案例证明", "weight": 0.5}
+      ],
+      "forbidden_weapons": ["制造紧迫感", "威胁", "描绘共同未来"],
+      "success_criteria": {
+        "user_says": ["好", "休息一下", "你说得对"],
+        "emotion_drop": 0.25,
+        "trust_increase": 0.1
+      }
+    },
+    {
+      "granular_goal": "emotion.trust_repair_protocol",
+      "display_name": "信任修复协议",
+      "description": "在严重背叛后，提供结构化的披露和观察期指导",
+      "keywords": ["事实", "透明度", "证据", "契约", "未来表现", "重复犯错", "背叛", "出轨", "欺骗", "撒谎", "隐瞒", "不信任", "还能相信什么", "怎么恢复信任", "观察期"],
+      "emotion_hints": ["愤怒", "挫败", "恐惧"],
+      "default_mode": "C",
+      "strategy_preferences": [
+        {"combo": "提供确定性+案例证明", "weight": 0.85},
+        {"combo": "共情+正常化", "weight": 0.7},
+        {"combo": "纠正+设界", "weight": 0.5}
+      ],
+      "forbidden_weapons": ["威胁", "嘲讽", "描绘共同未来", "赋予身份"],
+      "success_criteria": {
+        "user_says": ["我需要时间", "先看看", "好"],
+        "emotion_drop": 0.2,
+        "trust_increase": 0.15
+      }
+    }
+  ],
+  "default_strategy_weights": {
+    "共情+正常化": 0.85,
+    "提供确定性+案例证明": 0.7,
+    "好奇+价值": 0.6,
+    "纠正+设界": 0.55,
+    "沉默+示弱": 0.5,
+    "互惠+懒惰": 0.45,
+    "转移话题+原则": 0.4,
+    "反问+贴标签": 0.35,
+    "权威+案例": 0.3
+  },
+  "weapon_blacklist": {
+    "emotion_愤怒": ["描绘共同未来", "给予价值", "赋予身份", "授权", "制造紧迫感"],
+    "emotion_恐惧": ["制造紧迫感", "威胁", "质疑", "嘲讽"],
+    "emotion_绝望": ["描绘共同未来", "制造紧迫感", "威胁", "赋予身份"],
+    "emotion_挫败": ["威胁", "嘲讽", "指责", "贴标签"],
+    "goal_emotion.safety_screening": ["制造紧迫感", "威胁", "质疑", "描绘共同未来", "嘲讽"],
+    "goal_emotion.deescalate_conflict": ["制造紧迫感", "威胁", "描绘共同未来", "赋予身份"],
+    "goal_emotion.validate_feeling": ["威胁", "质疑", "嘲讽", "指责"],
+    "goal_emotion.physiological_soothing": ["制造紧迫感", "威胁", "描绘共同未来", "赋予身份"],
+    "goal_emotion.anti_disinhibition_audit": ["威胁", "嘲讽", "描绘共同未来", "赋予身份"]
+  },
+  "eval_weights": {
+    "emotional_stability_etv": 0.35,
+    "baseline_elevation_bel": 0.25,
+    "safety_recall_rate": 0.40
+  }
+}

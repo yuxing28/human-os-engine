@@ -1,0 +1,20 @@
+{
+  "base_version": "unknown",
+  "evolved_at": "2026-04-08T07:16:49Z",
+  "iterations": 84,
+  "strategy_weights": {
+    "negotiation.anchor_reset::": 0.15000000000000002,
+    "negotiation::negotiation.anchor_reset::": 0.4585599999999997,
+    "negotiation::negotiation.consensus_alignment::": 1.06,
+    "negotiation::negotiation.interest_probing::": 0.9616,
+    "negotiation::negotiation.last_resort_pressure::": 0.8979999999999999,
+    "negotiation::negotiation.value_articulation::": 0.976,
+    "negotiation::negotiation.trust_building::": 0.8392
+  },
+  "weapon_blacklist_additions": {},
+  "performance_metrics": {
+    "total_interactions": 84,
+    "success_count": 10,
+    "success_rate": 0.11904761904761904
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "version": "1.0.0",
+  "description": "Human-OS Engine 标准题库 (Golden Set) - 用于回归测试",
+  "scenarios": [
+    {
+      "id": 1,
+      "category": "阻力-恐惧",
+      "input": "这个方案风险太大了，万一失败了怎么办？",
+      "expected_resistance": "恐惧",
+      "expected_strategy_keyword": "确定性"
+    },
+    {
+      "id": 2,
+      "category": "阻力-恐惧",
+      "input": "我不确定这是否安全，我很担心后果。",
+      "expected_resistance": "恐惧",
+      "expected_strategy_keyword": "确定性"
+    },
+    {
+      "id": 3,
+      "category": "阻力-恐惧",
+      "input": "有没有什么保障措施？我怕亏本。",
+      "expected_resistance": "恐惧",
+      "expected_strategy_keyword": "确定性"
+    },
+    {
+      "id": 4,
+      "category": "阻力-恐惧",
+      "input": "心里没底，不敢轻易尝试。",
+      "expected_resistance": "恐惧",
+      "expected_strategy_keyword": "确定性"
+    },
+    {
+      "id": 5,
+      "category": "阻力-恐惧",
+      "input": "如果搞砸了，我没法向老板交代。",
+      "expected_resistance": "恐惧",
+      "expected_strategy_keyword": "确定性"
+    },
+    {
+      "id": 6,
+      "category": "阻力-恐惧",
+      "input": "这种事以前出过问题，我很害怕。",
+      "expected_resistance": "恐惧",
+      "expected_strategy_keyword": "确定性"
+    },
+    {
+      "id": 7,
+      "category": "阻力-恐惧",
+      "input": "能不能保证 100% 成功？",
+      "expected_resistance": "恐惧",
+      "expected_strategy_keyword": "确定性"
+    },
+    {
+      "id": 8,
+      "category": "阻力-恐惧",
+      "input": "我不想承担这个责任。",
+      "expected_resistance": "恐惧",
+      "expected_strategy_keyword": "确定性"
+    },
+    {
+      "id": 9,
+      "category": "阻力-恐惧",
+      "input": "这太冒险了，我不敢做决定。",
+      "expected_resistance": "恐惧",
+      "expected_strategy_keyword": "确定性"
+    },
+    {
+      "id": 10,
+      "category": "阻力-恐惧",
+      "input": "有没有成功的案例让我参考一下？",
+      "expected_resistance": "恐惧",
+      "expected_strategy_keyword": "确定性"
+    },
+    {
+      "id": 11,
+      "category": "阻力-懒惰",
+      "input": "这也太麻烦了吧，我不想弄。",
+      "expected_resistance": "懒惰",
+      "expected_strategy_keyword": "互惠"
+    },
+    {
+      "id": 12,
+      "category": "阻力-懒惰",
+      "input": "流程太复杂了，有没有简单点的？",
+      "expected_resistance": "懒惰",
+      "expected_strategy_keyword": "互惠"
+    },
+    {
+      "id": 13,
+      "category": "阻力-懒惰",
+      "input": "我没时间搞这些，太累了。",
+      "expected_resistance": "懒惰",
+      "expected_strategy_keyword": "互惠"
+    },
+    {
+      "id": 14,
+      "category": "阻力-懒惰",
+      "input": "能不能一键搞定？我不想学。",
+      "expected_resistance": "懒惰",
+      "expected_strategy_keyword": "互惠"
+    },
+    {
+      "id": 15,
+      "category": "阻力-懒惰",
+      "input": "算了吧，以后再说，现在不想动。",
+      "expected_resistance": "懒惰",
+      "expected_strategy_keyword": "互惠"
+    },
+    {
+      "id": 16,
+      "category": "阻力-傲慢",
+      "input": "你懂什么？别来教我做事。",
+      "expected_resistance": "傲慢",
+      "expected_strategy_keyword": "贴标签"
+    },
+    {
+      "id": 17,
+      "category": "阻力-傲慢",
+      "input": "我是专家，不需要你告诉我怎么做。",
+      "expected_resistance": "傲慢",
+      "expected_strategy_keyword": "贴标签"
+    },
+    {
+      "id": 18,
+      "category": "阻力-傲慢",
+      "input": "你们的产品太低端了，配不上我。",
+      "expected_resistance": "傲慢",
+      "expected_strategy_keyword": "贴标签"
+    },
+    {
+      "id": 19,
+      "category": "阻力-傲慢",
+      "input": "这种小把戏我看多了，别忽悠我。",
+      "expected_resistance": "傲慢",
+      "expected_strategy_keyword": "贴标签"
+    },
+    {
+      "id": 20,
+      "category": "阻力-傲慢",
+      "input": "你算什么？有什么资格跟我谈？",
+      "expected_resistance": "傲慢",
+      "expected_strategy_keyword": "贴标签"
+    },
+    {
+      "id": 21,
+      "category": "阻力-愤怒",
+      "input": "你们这是什么服务态度？气死我了！",
+      "expected_resistance": "愤怒",
+      "expected_strategy_keyword": "纠正"
+    },
+    {
+      "id": 22,
+      "category": "阻力-愤怒",
+      "input": "我要投诉！你们就是骗子！",
+      "expected_resistance": "愤怒",
+      "expected_strategy_keyword": "纠正"
+    },
+    {
+      "id": 23,
+      "category": "阻力-愤怒",
+      "input": "别浪费我时间了，滚！",
+      "expected_resistance": "愤怒",
+      "expected_strategy_keyword": "纠正"
+    },
+    {
+      "id": 24,
+      "category": "阻力-愤怒",
+      "input": "太离谱了，我从未见过这么差的产品！",
+      "expected_resistance": "愤怒",
+      "expected_strategy_keyword": "纠正"
+    },
+    {
+      "id": 25,
+      "category": "阻力-愤怒",
+      "input": "你再说一句废话试试？",
+      "expected_resistance": "愤怒",
+      "expected_strategy_keyword": "纠正"
+    },
+    {
+      "id": 26,
+      "category": "目标-ROI",
+      "input": "这东西能帮我赚多少钱？",
+      "expected_goal": "prove_roi",
+      "expected_strategy_keyword": "ROI"
+    },
+    {
+      "id": 27,
+      "category": "目标-ROI",
+      "input": "我想提高销售额，有什么办法？",
+      "expected_goal": "prove_roi",
+      "expected_strategy_keyword": "ROI"
+    },
+    {
+      "id": 28,
+      "category": "目标-ROI",
+      "input": "投资回报率大概是多少？",
+      "expected_goal": "prove_roi",
+      "expected_strategy_keyword": "ROI"
+    },
+    {
+      "id": 29,
+      "category": "目标-ROI",
+      "input": "怎么降低成本，增加利润？",
+      "expected_goal": "prove_roi",
+      "expected_strategy_keyword": "ROI"
+    },
+    {
+      "id": 30,
+      "category": "目标-ROI",
+      "input": "我想提升团队效率。",
+      "expected_goal": "prove_roi",
+      "expected_strategy_keyword": "ROI"
+    },
+    {
+      "id": 31,
+      "category": "目标-ROI",
+      "input": "有没有快速变现的方法？",
+      "expected_goal": "prove_roi",
+      "expected_strategy_keyword": "ROI"
+    },
+    {
+      "id": 32,
+      "category": "目标-ROI",
+      "input": "我想扩大市场份额。",
+      "expected_goal": "prove_roi",
+      "expected_strategy_keyword": "ROI"
+    },
+    {
+      "id": 33,
+      "category": "目标-ROI",
+      "input": "这东西能帮我省钱吗？",
+      "expected_goal": "prove_roi",
+      "expected_strategy_keyword": "ROI"
+    },
+    {
+      "id": 34,
+      "category": "目标-ROI",
+      "input": "我想让业绩翻倍。",
+      "expected_goal": "prove_roi",
+      "expected_strategy_keyword": "ROI"
+    },
+    {
+      "id": 35,
+      "category": "目标-ROI",
+      "input": "怎么实现降本增效？",
+      "expected_goal": "prove_roi",
+      "expected_strategy_keyword": "ROI"
+    },
+    {
+      "id": 36,
+      "category": "目标-情感",
+      "input": "我觉得很孤独，没人理解我。",
+      "expected_goal": "break_status_quo",
+      "expected_strategy_keyword": "价值"
+    },
+    {
+      "id": 37,
+      "category": "目标-情感",
+      "input": "我需要有人支持我。",
+      "expected_goal": "break_status_quo",
+      "expected_strategy_keyword": "价值"
+    },
+    {
+      "id": 38,
+      "category": "目标-情感",
+      "input": "我想建立信任关系。",
+      "expected_goal": "break_status_quo",
+      "expected_strategy_keyword": "价值"
+    },
+    {
+      "id": 39,
+      "category": "目标-情感",
+      "input": "怎么才能让客户喜欢我？",
+      "expected_goal": "break_status_quo",
+      "expected_strategy_keyword": "价值"
+    },
+    {
+      "id": 40,
+      "category": "目标-情感",
+      "input": "我很焦虑，不知道怎么面对。",
+      "expected_goal": "break_status_quo",
+      "expected_strategy_keyword": "价值"
+    },
+    {
+      "id": 41,
+      "category": "边界情况",
+      "input": "你好",
+      "expected_goal": null,
+      "expected_strategy_keyword": null
+    },
+    {
+      "id": 42,
+      "category": "边界情况",
+      "input": "？？？",
+      "expected_goal": null,
+      "expected_strategy_keyword": null
+    },
+    {
+      "id": 43,
+      "category": "边界情况",
+      "input": "asdfghjkl",
+      "expected_goal": null,
+      "expected_strategy_keyword": null
+    },
+    {
+      "id": 44,
+      "category": "边界情况",
+      "input": "嗯",
+      "expected_goal": null,
+      "expected_strategy_keyword": null
+    },
+    {
+      "id": 45,
+      "category": "边界情况",
+      "input": "好的",
+      "expected_goal": null,
+      "expected_strategy_keyword": null
+    },
+    {
+      "id": 46,
+      "category": "边界情况",
+      "input": "1234567890",
+      "expected_goal": null,
+      "expected_strategy_keyword": null
+    },
+    {
+      "id": 47,
+      "category": "边界情况",
+      "input": "我想买",
+      "expected_goal": "prove_roi",
+      "expected_strategy_keyword": "ROI"
+    },
+    {
+      "id": 48,
+      "category": "边界情况",
+      "input": "太贵了",
+      "expected_goal": "value_differentiation",
+      "expected_strategy_keyword": "案例"
+    },
+    {
+      "id": 49,
+      "category": "边界情况",
+      "input": "不想买",
+      "expected_goal": "break_status_quo",
+      "expected_strategy_keyword": "价值"
+    },
+    {
+      "id": 50,
+      "category": "边界情况",
+      "input": "再看看",
+      "expected_goal": "break_status_quo",
+      "expected_strategy_keyword": "价值"
+    }
+  ]
+}

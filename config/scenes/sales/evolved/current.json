@@ -1,0 +1,25 @@
+{
+  "base_version": "unknown",
+  "evolved_at": "2026-04-08T07:04:09Z",
+  "iterations": 374,
+  "strategy_weights": {
+    "overcome_rejection::": 0.1,
+    "reduce_admin_burden::": 0.5099999999999996,
+    "break_status_quo::": 0.4499999999999995,
+    "prove_roi::": 1.04,
+    "close_deal::": 0.8499999999999999,
+    "sales::overcome_rejection::": 0.1,
+    "sales::prove_roi::": 0.18663999999999992,
+    "sales::value_differentiation::": 0.9424,
+    "sales::close_deal::": 0.9616,
+    "sales::crisis_management::": 0.93136,
+    "sales::break_status_quo::": 0.7912000000000001,
+    "sales::lead_quality::": 0.9328
+  },
+  "weapon_blacklist_additions": {},
+  "performance_metrics": {
+    "total_interactions": 374,
+    "success_count": 36,
+    "success_rate": 0.0962566844919786
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "base_version": "unknown",
+  "evolved_at": "2026-04-08T06:59:22Z",
+  "iterations": 144,
+  "strategy_weights": {
+    "task_acceptance::": 0.24000000000000005,
+    "motivation_boost::": 0.7899999999999998,
+    "management::task_acceptance::": 0.1,
+    "management::conflict_resolution::": 1.024,
+    "management::change_fatigue_mitigation::": 0.43600000000000005,
+    "management::performance_improvement::": 0.976
+  },
+  "weapon_blacklist_additions": {},
+  "performance_metrics": {
+    "total_interactions": 144,
+    "success_count": 21,
+    "success_rate": 0.14583333333333334
+  }
+}

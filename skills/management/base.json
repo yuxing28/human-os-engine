@@ -1,0 +1,193 @@
+{
+  "scene_id": "management",
+  "version": "2.0.0",
+  "description": "管理场景配置（2026 升级版）：涵盖基础管理与高阶智能体时代痛点",
+  "goal_taxonomy": [
+    {
+      "granular_goal": "task_acceptance",
+      "display_name": "任务接受",
+      "description": "员工接受新任务，消除畏难情绪",
+      "keywords": [
+        "太难了", "我不行", "没做过", "怕搞砸", "资源不够", "时间不够",
+        "不会做", "没经验", "压力太大", "能不能换人", "不想接"
+      ],
+      "emotion_hints": ["恐惧", "焦虑"],
+      "default_mode": "A",
+      "forced_combo": "共情+正常化",
+      "banned_combos": ["权威+从众", "好奇+稀缺"],
+      "strategy_preferences": [
+        { "combo": "共情+正常化", "weight": 0.95 },
+        { "combo": "懒惰+互惠", "weight": 0.8 },
+        { "combo": "提供确定性+案例证明", "weight": 0.6 }
+      ],
+      "forbidden_weapons": ["制造紧迫感", "威胁", "描绘共同未来"],
+      "success_criteria": { "user_says": ["那我试试", "好吧", "明白了"], "emotion_drop": 0.2, "trust_increase": 0.1 }
+    },
+    {
+      "granular_goal": "performance_improvement",
+      "display_name": "绩效提升",
+      "description": "员工绩效不佳，需要改进",
+      "keywords": [
+        "最近表现不好", "业绩下滑", "效率低", "态度有问题", "迟到",
+        "没达标", "考核不合格", "需要改进", "警告"
+      ],
+      "emotion_hints": ["愤怒", "挫败"],
+      "default_mode": "B",
+      "forced_combo": "权威+共识",
+      "banned_combos": ["好奇+稀缺", "贪婪+恐惧"],
+      "strategy_preferences": [
+        { "combo": "权威+共识", "weight": 0.9 },
+        { "combo": "提供确定性+案例证明", "weight": 0.7 },
+        { "combo": "懒惰+互惠", "weight": 0.5 }
+      ],
+      "forbidden_weapons": ["制造紧迫感", "威胁", "描绘共同未来"],
+      "success_criteria": { "user_says": ["我会改", "知道了", "没问题"], "emotion_drop": 0.2, "trust_increase": 0.1 }
+    },
+    {
+      "granular_goal": "conflict_resolution",
+      "display_name": "冲突解决",
+      "description": "员工之间有矛盾，或者对管理不满",
+      "keywords": [
+        "不公平", "针对我", "他先动手", "我不服", "凭什么",
+        "有意见", "投诉", "吵架", "配合不了", "不想和他一组"
+      ],
+      "emotion_hints": ["愤怒", "急躁"],
+      "default_mode": "A",
+      "forced_combo": "共情+正常化",
+      "banned_combos": ["权威+从众", "好奇+稀缺"],
+      "strategy_preferences": [
+        { "combo": "共情+正常化", "weight": 0.95 },
+        { "combo": "提供确定性+案例证明", "weight": 0.7 },
+        { "combo": "权威+共识", "weight": 0.5 }
+      ],
+      "forbidden_weapons": ["制造紧迫感", "威胁", "描绘共同未来"],
+      "success_criteria": { "user_says": ["也是", "算了", "听你的"], "emotion_drop": 0.3, "trust_increase": 0.1 }
+    },
+    {
+      "granular_goal": "motivation_boost",
+      "display_name": "激励鼓舞",
+      "description": "员工士气低落，需要激励",
+      "keywords": [
+        "没意思", "不想干了", "累了", "没前途", "想辞职",
+        "迷茫", "没动力", "倦怠", " burnout", "心累"
+      ],
+      "emotion_hints": ["挫败", "迷茫"],
+      "default_mode": "C",
+      "forced_combo": "愿景+尊严",
+      "banned_combos": ["权威+从众", "贪婪+恐惧"],
+      "strategy_preferences": [
+        { "combo": "愿景+尊严", "weight": 0.9 },
+        { "combo": "共情+正常化", "weight": 0.7 },
+        { "combo": "提供确定性+案例证明", "weight": 0.5 }
+      ],
+      "forbidden_weapons": ["制造紧迫感", "威胁", "描绘共同未来"],
+      "success_criteria": { "user_says": ["谢谢", "好多了", "有方向了"], "emotion_drop": 0.2, "trust_increase": 0.15 }
+    },
+    {
+      "granular_goal": "algorithmic_explanation",
+      "display_name": "算法解释与信任重建",
+      "description": "员工对 AI 决策不满，需要解释算法逻辑并重建信任",
+      "keywords": [
+        "AI 评分太低", "黑箱", "不公平", "系统判定", "算法决定", "机器打分",
+        "不透明", "无法解释", "被算法针对", "系统误判", "数据错误"
+      ],
+      "emotion_hints": ["愤怒", "挫败"],
+      "default_mode": "A",
+      "forced_combo": "共情+正常化",
+      "banned_combos": ["权威+从众", "好奇+稀缺"],
+      "strategy_preferences": [
+        { "combo": "共情+正常化", "weight": 0.95 },
+        { "combo": "提供确定性+案例证明", "weight": 0.8 },
+        { "combo": "权威+共识", "weight": 0.6 }
+      ],
+      "forbidden_weapons": ["制造紧迫感", "威胁", "描绘共同未来"],
+      "success_criteria": { "user_says": ["明白了", "原来是这样", "好吧"], "emotion_drop": 0.2, "trust_increase": 0.1 }
+    },
+    {
+      "granular_goal": "cross_functional_mediation",
+      "display_name": "跨职能协同",
+      "description": "部门间协作出现摩擦，需要调解冲突",
+      "keywords": [
+        "跨部门", "吵架", "推诿", "语言不通", "研发和市场", "协作拖累",
+        "互相甩锅", "配合不了", "流程卡住", "各说各话", "利益冲突"
+      ],
+      "emotion_hints": ["愤怒", "急躁"],
+      "default_mode": "B",
+      "forced_combo": "权威+共识",
+      "banned_combos": ["好奇+稀缺", "贪婪+恐惧"],
+      "strategy_preferences": [
+        { "combo": "权威+共识", "weight": 0.9 },
+        { "combo": "懒惰+互惠", "weight": 0.7 },
+        { "combo": "提供确定性+案例证明", "weight": 0.6 }
+      ],
+      "forbidden_weapons": ["制造紧迫感", "威胁", "描绘共同未来"],
+      "success_criteria": { "user_says": ["也是", "听你的", "试试看"], "emotion_drop": 0.3, "trust_increase": 0.1 }
+    },
+    {
+      "granular_goal": "change_fatigue_mitigation",
+      "display_name": "变革疲劳缓解",
+      "description": "员工对频繁变革感到倦怠，需要缓解",
+      "keywords": [
+        "不想变了", "又是新工具", "太累了", "变革疲劳", "倦怠",
+        "没完没了", "能不能消停会", "学不动了", "又是改革", "折腾"
+      ],
+      "emotion_hints": ["挫败", "迷茫"],
+      "default_mode": "C",
+      "forced_combo": "愿景+尊严",
+      "banned_combos": ["权威+从众", "贪婪+恐惧"],
+      "strategy_preferences": [
+        { "combo": "愿景+尊严", "weight": 0.9 },
+        { "combo": "懒惰+互惠", "weight": 0.8 },
+        { "combo": "共情+正常化", "weight": 0.6 }
+      ],
+      "forbidden_weapons": ["制造紧迫感", "威胁", "质疑"],
+      "success_criteria": { "user_says": ["谢谢", "好多了", "有方向了"], "emotion_drop": 0.2, "trust_increase": 0.15 }
+    },
+    {
+      "granular_goal": "upward_expectation_management",
+      "display_name": "向上预期管理",
+      "description": "面对上级不切实际的要求，需要进行预期管理",
+      "keywords": [
+        "CEO 要", "不切实际", "裁员", "AI 替代率", "向上汇报",
+        "老板说", "高层要求", "不可能完成", "资源不够", "风险很大"
+      ],
+      "emotion_hints": ["恐惧", "焦虑"],
+      "default_mode": "B",
+      "forced_combo": "权威+共识",
+      "banned_combos": ["好奇+稀缺", "贪婪+恐惧"],
+      "strategy_preferences": [
+        { "combo": "权威+共识", "weight": 0.9 },
+        { "combo": "提供确定性+案例证明", "weight": 0.8 },
+        { "combo": "共情+正常化", "weight": 0.5 }
+      ],
+      "forbidden_weapons": ["制造紧迫感", "威胁", "描绘共同未来"],
+      "success_criteria": { "user_says": ["明白了", "知道了", "有道理"], "emotion_drop": 0.2, "trust_increase": 0.1 }
+    }
+  ],
+  "default_strategy_weights": {
+    "共情+正常化": 0.8,
+    "权威+共识": 0.7,
+    "懒惰+互惠": 0.6,
+    "愿景+尊严": 0.7,
+    "提供确定性+案例证明": 0.6
+  },
+  "weapon_blacklist": {
+    "emotion_愤怒": ["描绘共同未来", "给予价值", "赋予身份", "授权"],
+    "emotion_恐惧": ["制造紧迫感", "威胁", "质疑"],
+    "goal_task_acceptance": ["制造紧迫感", "威胁", "描绘共同未来"],
+    "goal_performance_improvement": ["制造紧迫感", "威胁", "描绘共同未来"],
+    "goal_conflict_resolution": ["制造紧迫感", "威胁", "描绘共同未来"],
+    "goal_motivation_boost": ["制造紧迫感", "威胁", "质疑"],
+    "goal_algorithmic_explanation": ["制造紧迫感", "威胁", "描绘共同未来"],
+    "goal_cross_functional_mediation": ["制造紧迫感", "威胁", "描绘共同未来"],
+    "goal_change_fatigue_mitigation": ["制造紧迫感", "威胁", "质疑"],
+    "goal_upward_expectation_management": ["制造紧迫感", "威胁", "描绘共同未来"]
+  },
+  "eval_weights": {
+    "goal_achievement": 0.4,
+    "attention_retention": 0.2,
+    "trust_change": 0.2,
+    "strategy_fit": 0.1,
+    "expression_normativity": 0.1
+  }
+}

@@ -1,0 +1,712 @@
+[
+  {
+    "goal": "close_deal",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775915807.651218
+  },
+  {
+    "goal": "close_deal",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775921115.7715118
+  },
+  {
+    "goal": "close_deal",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775925622.557434
+  },
+  {
+    "goal": "close_deal",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775954528.2703023
+  },
+  {
+    "goal": "close_deal",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775956559.97673
+  },
+  {
+    "goal": "close_deal",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775956717.5307982
+  },
+  {
+    "goal": "close_deal",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775959653.6234338
+  },
+  {
+    "goal": "close_deal",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775959830.4610395
+  },
+  {
+    "goal": "close_deal",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775963730.2786975
+  },
+  {
+    "goal": "close_deal",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775966875.2073593
+  },
+  {
+    "goal": "prove_roi",
+    "strategy": "朋友借钱：拒绝但不伤感情",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1775985266.149456
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "权威+案例",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775996780.8887753
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775996785.0960267
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775996814.2096658
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "贪婪+恐惧",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775996819.3209143
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "贪婪+恐惧",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775996826.8982692
+  },
+  {
+    "goal": "close_deal",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776001497.1618857
+  },
+  {
+    "goal": "close_deal",
+    "strategy": "权威+从众",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776022071.3473387
+  },
+  {
+    "goal": "close_deal",
+    "strategy": "权威+从众",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776022097.2692509
+  },
+  {
+    "goal": "close_deal",
+    "strategy": "权威+从众",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776022315.0211675
+  },
+  {
+    "goal": "close_deal",
+    "strategy": "权威+从众",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776022340.530042
+  },
+  {
+    "goal": "break_status_quo",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776022368.0147693
+  },
+  {
+    "goal": "close_deal",
+    "strategy": "权威+从众",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776031238.6092272
+  },
+  {
+    "goal": "close_deal",
+    "strategy": "权威+从众",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776031265.1326876
+  },
+  {
+    "goal": "break_status_quo",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776031292.9717789
+  },
+  {
+    "goal": "break_status_quo",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776031321.5827875
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "好奇+价值",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776231895.3887262
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776231899.2318742
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776231922.7774758
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "好奇+价值",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776231928.0583637
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776231933.169259
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "好奇+价值",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776232195.910624
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "好奇+价值",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776232199.9444585
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "好奇+价值",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776232220.0588224
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "好奇+价值",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776232224.6586235
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776232229.7408643
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "好奇+价值",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776414808.7664628
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776414812.575445
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776414828.4597075
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "好奇+价值",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776414832.256402
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "好奇+价值",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776414836.8202162
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "好奇+价值",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776414982.6219738
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776414986.6778026
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776415003.0089476
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776415006.5422533
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "好奇+价值",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776415010.941979
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776415151.9769595
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776415155.8906085
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776415179.8359327
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776415183.592319
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "好奇+价值",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776415187.8194163
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776415312.1616757
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776415315.1234462
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776415333.1624422
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776415336.4030225
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "互惠+懒惰",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776415341.3054535
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776415465.7993736
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776415469.0973787
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776415486.6832247
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776415490.5115213
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "贪婪+恐惧",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776415495.4186323
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "贪婪+恐惧",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776415763.7734709
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "贪婪+恐惧",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776415767.4379735
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "贪婪+恐惧",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776415785.4104228
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "贪婪+恐惧",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776415789.5362997
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776415794.6502295
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776416053.4317474
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776416056.4688191
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776416072.6413243
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776416076.3778696
+  },
+  {
+    "goal": "overcome_rejection",
+    "strategy": "提供确定性+案例证明",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776416081.3108397
+  }
+]
