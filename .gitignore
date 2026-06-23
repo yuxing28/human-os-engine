@@ -1,0 +1,66 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment (never commit secrets)
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test coverage
+htmlcov/
+.coverage
+.coverage.*
+.pytest_cache/
+
+# ===== Logic Documents / Reports / Artifacts =====
+# Knowledge modules, design docs, personas, governance, references
+docs/
+architecture/
+artifacts/
+data/
+publish/
+.codex/
+_artifacts/
+_nul
+
+# Root-level report/status/plan/checklist markdown files
+*_REPORT.md
+*_STATUS.md
+*_PLAN.md
+*_CHECKLIST.md
+*_SUMMARY.md
+*_MANIFEST.json
+RUNTIME_LOGIC.md
+WORKTREE_CLEANUP_PLAN.md
+NEXT_ALLOWED_ACTIONS.md
+
+# Simulation reports (keep .py, ignore .md)
+simulation/*.md
+simulation/logs/
+
+# Runtime artifacts in skills (lock files, backups, temp files)
+**/*.lock
+**/*.tmp
+**/evolved/backup_*.json
+
+# Tools with hardcoded secrets
+tools/mimo-key-rotator/

@@ -1,0 +1,634 @@
+{
+  "scene_id": "sales",
+  "version": "1.2.4",
+  "description": "销售场景通用配置（基于沙盒 708+ 次交互自动进化 v1.2.4）",
+  "goal_taxonomy": [
+    {
+      "granular_goal": "overcome_rejection",
+      "display_name": "克服拒绝",
+      "description": "新手销售被高频挂断后的自我怀疑与呼叫恐惧",
+      "keywords": [
+        "不想打了",
+        "又被挂了",
+        "没信心",
+        "适合干销售吗",
+        "被拒绝",
+        "太受挫了",
+        "挂电话",
+        "拒绝",
+        "受挫",
+        "放弃",
+        "坚持不下去",
+        "呼叫恐惧",
+        "开不了单",
+        "没开单",
+        "连续失败",
+        "自我怀疑",
+        "不适合",
+        "崩溃",
+        "撑不下去",
+        "想辞职",
+        "太累了"
+      ],
+      "emotion_hints": [
+        "挫败",
+        "迷茫",
+        "焦虑"
+      ],
+      "default_mode": "A",
+      "strategy_preferences": [
+        {
+          "combo": "共情+正常化",
+          "weight": 0.95
+        },
+        {
+          "combo": "提供确定性+案例证明",
+          "weight": 0.8
+        },
+        {
+          "combo": "好奇+价值",
+          "weight": 0.5
+        },
+        {
+          "combo": "互惠+懒惰",
+          "weight": 0.4
+        },
+        {
+          "combo": "贪婪+恐惧",
+          "weight": 0.1
+        }
+      ],
+      "forbidden_weapons": [
+        "制造紧迫感",
+        "威胁",
+        "质疑"
+      ],
+      "success_criteria": {
+        "user_says": [
+          "再试试",
+          "有道理",
+          "好点"
+        ],
+        "emotion_drop": 0.2,
+        "trust_increase": 0.1
+      }
+    },
+    {
+      "granular_goal": "break_status_quo",
+      "display_name": "打破现状",
+      "description": "客户因怕出错而维持现状（44% No Decision Loss）",
+      "keywords": [
+        "再想想",
+        "不急",
+        "维持现状",
+        "怕出错",
+        "没下文",
+        "客户不动",
+        "拖着不签",
+        "犹豫",
+        "观望",
+        "风险",
+        "万一",
+        "保障",
+        "怕选错",
+        "考虑考虑",
+        "再看看",
+        "稳妥",
+        "保守",
+        "不想变",
+        "保持现状",
+        "No Decision"
+      ],
+      "emotion_hints": [
+        "犹豫",
+        "平静",
+        "急躁"
+      ],
+      "default_mode": "B",
+      "strategy_preferences": [
+        {
+          "combo": "提供确定性+案例证明",
+          "weight": 0.55
+        },
+        {
+          "combo": "懒惰+互惠",
+          "weight": 0.85
+        },
+        {
+          "combo": "价值锚定+社交证明",
+          "weight": 0.7
+        },
+        {
+          "combo": "好奇+稀缺",
+          "weight": 0.4
+        }
+      ],
+      "forbidden_weapons": [
+        "描绘共同未来",
+        "赋予身份"
+      ],
+      "success_criteria": {
+        "user_says": [
+          "试试",
+          "有保障就行",
+          "考虑一下"
+        ],
+        "fear_drop": 0.3,
+        "trust_increase": 0.1
+      }
+    },
+    {
+      "granular_goal": "reduce_admin_burden",
+      "display_name": "减少行政负担",
+      "description": "销售 70% 时间被非销售任务吞噬",
+      "keywords": [
+        "填表",
+        "CRM",
+        "太麻烦",
+        "没时间",
+        "行政",
+        "琐事",
+        "报表",
+        "录入",
+        "非销售任务",
+        "系统切换",
+        "上下文丢失",
+        "自动化",
+        "效率低",
+        "浪费时间",
+        "杂事",
+        "流程繁琐",
+        "工具疲劳",
+        "系统太重",
+        "数据清洗"
+      ],
+      "emotion_hints": [
+        "急躁",
+        "挫败"
+      ],
+      "default_mode": "B",
+      "strategy_preferences": [
+        {
+          "combo": "懒惰+互惠",
+          "weight": 0.95
+        },
+        {
+          "combo": "懒惰+损失规避",
+          "weight": 0.8
+        },
+        {
+          "combo": "提供确定性+案例证明",
+          "weight": 0.55
+        }
+      ],
+      "forbidden_weapons": [
+        "描绘共同未来",
+        "赋予身份",
+        "授权"
+      ],
+      "success_criteria": {
+        "user_says": [
+          "省时间",
+          "自动化",
+          "简单"
+        ],
+        "emotion_drop": 0.3
+      }
+    },
+    {
+      "granular_goal": "multi_threading",
+      "display_name": "多线推进",
+      "description": "B2B 决策涉及 6-10 人，单点依赖风险高",
+      "keywords": [
+        "找不到人",
+        "关键人走了",
+        "内部推不动",
+        "单线",
+        "决策链",
+        "多线",
+        "决策者",
+        "利益相关者",
+        "采购办",
+        "技术部",
+        "财务部",
+        "内部政治",
+        "意见不统一",
+        "推不动",
+        "卡住了",
+        "多人决策",
+        "共识"
+      ],
+      "emotion_hints": [
+        "焦虑",
+        "迷茫"
+      ],
+      "default_mode": "B",
+      "strategy_preferences": [
+        {
+          "combo": "好奇+价值",
+          "weight": 0.9
+        },
+        {
+          "combo": "权威+案例",
+          "weight": 0.85
+        },
+        {
+          "combo": "提供确定性+案例证明",
+          "weight": 0.6
+        },
+        {
+          "combo": "好奇+稀缺",
+          "weight": 0.3
+        }
+      ],
+      "forbidden_weapons": [
+        "给予价值",
+        "描绘共同未来",
+        "制造紧迫感"
+      ],
+      "success_criteria": {
+        "user_says": [
+          "有点意思",
+          "展开说说",
+          "这个角度没听过"
+        ],
+        "emotion_drop": 0.1,
+        "trust_increase": 0.1
+      }
+    },
+    {
+      "granular_goal": "value_differentiation",
+      "display_name": "价值差异化",
+      "description": "买家 70% 旅程已完成，销售沦为报价机器人",
+      "keywords": [
+        "客户什么都懂了",
+        "只要报价",
+        "别家更便宜",
+        "信息透明",
+        "不需要你介绍",
+        "比价",
+        "价格战",
+        "没优势",
+        "差异化",
+        "同质化",
+        "竞品",
+        "对手",
+        "更低价",
+        "毛利",
+        "信息对称",
+        "自我教育",
+        "买家独立"
+      ],
+      "emotion_hints": [
+        "平静",
+        "急躁"
+      ],
+      "default_mode": "B",
+      "strategy_preferences": [
+        {
+          "combo": "好奇+价值",
+          "weight": 0.9
+        },
+        {
+          "combo": "权威+案例",
+          "weight": 0.85
+        },
+        {
+          "combo": "提供确定性+案例证明",
+          "weight": 0.6
+        },
+        {
+          "combo": "价值锚定+社交证明",
+          "weight": 0.5
+        },
+        {
+          "combo": "好奇+稀缺",
+          "weight": 0.3
+        }
+      ],
+      "forbidden_weapons": [
+        "给予价值",
+        "描绘共同未来",
+        "制造紧迫感"
+      ],
+      "success_criteria": {
+        "user_says": [
+          "有点意思",
+          "展开说说",
+          "这个角度没听过"
+        ],
+        "emotion_drop": 0.1,
+        "trust_increase": 0.1
+      }
+    },
+    {
+      "granular_goal": "prove_roi",
+      "display_name": "证明投资回报",
+      "description": "B2B SaaS 买家关注降本增效，CFO 审查强度提升 40%",
+      "keywords": [
+        "ROI",
+        "回报率",
+        "降本",
+        "增效",
+        "预算审批",
+        "CFO 不批",
+        "性价比",
+        "投入产出",
+        "成本",
+        "收益",
+        "数据",
+        "案例",
+        "权威",
+        "证明",
+        "可行性",
+        "审查",
+        "非核心支出",
+        "财务",
+        "算不清楚"
+      ],
+      "emotion_hints": [
+        "平静",
+        "犹豫"
+      ],
+      "default_mode": "B",
+      "strategy_preferences": [
+        {
+          "combo": "提供确定性+案例证明",
+          "weight": 0.7
+        },
+        {
+          "combo": "权威+从众",
+          "weight": 0.8
+        },
+        {
+          "combo": "价值锚定+社交证明",
+          "weight": 0.6
+        },
+        {
+          "combo": "懒惰+互惠",
+          "weight": 0.4
+        }
+      ],
+      "forbidden_weapons": [
+        "描绘共同未来",
+        "赋予身份",
+        "授权"
+      ],
+      "success_criteria": {
+        "user_says": [
+          "数据不错",
+          "有说服力",
+          "可以考虑"
+        ],
+        "trust_increase": 0.15
+      }
+    },
+    {
+      "granular_goal": "close_deal",
+      "display_name": "促成交易",
+      "description": "AE 关单压力，季度末焦虑顶峰",
+      "keywords": [
+        "月底了",
+        "季度末",
+        "最后期限",
+        "赶紧定",
+        "签不签",
+        "下单",
+        "成交",
+        "逼单",
+        "临门一脚",
+        "关单",
+        "签约",
+        "最后一步",
+        "冲刺",
+        "达标",
+        "差一单",
+        "谈判到最后",
+        "怎么促成",
+        "快速签单"
+      ],
+      "emotion_hints": [
+        "急躁",
+        "焦虑"
+      ],
+      "default_mode": "B",
+      "strategy_preferences": [
+        {
+          "combo": "懒惰+损失规避",
+          "weight": 0.85
+        },
+        {
+          "combo": "提供确定性+案例证明",
+          "weight": 0.75
+        },
+        {
+          "combo": "贪婪+恐惧",
+          "weight": 0.5
+        },
+        {
+          "combo": "好奇+稀缺",
+          "weight": 0.4
+        }
+      ],
+      "forbidden_weapons": [
+        "共情",
+        "正常化",
+        "安慰"
+      ],
+      "success_criteria": {
+        "user_says": [
+          "买了",
+          "下单",
+          "签",
+          "成交"
+        ],
+        "emotion_drop": 0.2,
+        "trust_increase": 0.1
+      }
+    },
+    {
+      "granular_goal": "lead_quality",
+      "display_name": "线索质量",
+      "description": "SDR 焦虑线索质量低下，AI 替代恐慌",
+      "keywords": [
+        "线索太差",
+        "不是决策人",
+        "空号",
+        "AI 外呼",
+        "被替代",
+        "SDR 给的垃圾",
+        "线索质量",
+        "转化率",
+        "触达率",
+        "精准",
+        "目标客户",
+        "初级岗位",
+        "AI SDR",
+        "清洗名单",
+        "错误联系",
+        "无效线索"
+      ],
+      "emotion_hints": [
+        "挫败",
+        "愤怒",
+        "焦虑"
+      ],
+      "default_mode": "A",
+      "strategy_preferences": [
+        {
+          "combo": "共情+正常化",
+          "weight": 0.9
+        },
+        {
+          "combo": "提供确定性+案例证明",
+          "weight": 0.7
+        },
+        {
+          "combo": "懒惰+互惠",
+          "weight": 0.5
+        },
+        {
+          "combo": "互惠+懒惰",
+          "weight": 0.4
+        }
+      ],
+      "forbidden_weapons": [
+        "制造紧迫感",
+        "威胁",
+        "质疑"
+      ],
+      "success_criteria": {
+        "user_says": [
+          "有道理",
+          "好点",
+          "试试新方法"
+        ],
+        "emotion_drop": 0.3,
+        "trust_increase": 0.15
+      }
+    },
+    {
+      "granular_goal": "crisis_management",
+      "display_name": "危机公关",
+      "description": "客户遭遇严重问题，情绪愤怒，信任崩塌",
+      "keywords": [
+        "投诉",
+        "举报",
+        "垃圾",
+        "骗子",
+        "退款",
+        "赔偿",
+        "曝光",
+        "起诉",
+        "太失望",
+        "无法接受",
+        "严重问题",
+        "故障",
+        "宕机",
+        "数据丢失",
+        "泄露",
+        "违规",
+        "欺诈"
+      ],
+      "emotion_hints": [
+        "愤怒",
+        "挫败"
+      ],
+      "default_mode": "A",
+      "forced_combo": "共情+正常化",
+      "banned_combos": [
+        "权威+从众",
+        "好奇+稀缺",
+        "贪婪+恐惧"
+      ],
+      "strategy_preferences": [
+        {
+          "combo": "共情+正常化",
+          "weight": 0.95
+        },
+        {
+          "combo": "提供确定性+案例证明",
+          "weight": 0.7
+        }
+      ],
+      "forbidden_weapons": [
+        "制造紧迫感",
+        "威胁",
+        "描绘共同未来",
+        "赋予身份"
+      ],
+      "success_criteria": {
+        "user_says": [
+          "先解决问题",
+          "看你们态度",
+          "给个说法"
+        ],
+        "emotion_drop": 0.3,
+        "trust_increase": 0.1
+      }
+    }
+  ],
+  "default_strategy_weights": {
+    "共情+正常化": 0.8,
+    "提供确定性+案例证明": 0.9,
+    "价值锚定+社交证明": 0.6,
+    "懒惰+互惠": 0.75,
+    "权威+从众": 0.65,
+    "好奇+稀缺": 0.35,
+    "贪婪+恐惧": 0.4,
+    "懒惰+损失规避": 0.7
+  },
+  "weapon_blacklist": {
+    "emotion_愤怒": [
+      "描绘共同未来",
+      "给予价值",
+      "赋予身份",
+      "授权"
+    ],
+    "emotion_恐惧": [
+      "制造紧迫感",
+      "威胁",
+      "质疑"
+    ],
+    "goal_overcome_rejection": [
+      "制造紧迫感",
+      "威胁",
+      "质疑"
+    ],
+    "goal_break_status_quo": [
+      "描绘共同未来",
+      "赋予身份"
+    ],
+    "goal_reduce_admin_burden": [
+      "描绘共同未来",
+      "赋予身份",
+      "授权"
+    ],
+    "goal_value_differentiation": [
+      "给予价值",
+      "描绘共同未来"
+    ],
+    "goal_prove_roi": [
+      "描绘共同未来",
+      "赋予身份",
+      "授权"
+    ],
+    "goal_close_deal": [
+      "共情",
+      "正常化",
+      "安慰"
+    ],
+    "goal_lead_quality": [
+      "制造紧迫感",
+      "威胁",
+      "质疑"
+    ]
+  },
+  "eval_weights": {
+    "goal_achievement": 0.4,
+    "attention_retention": 0.2,
+    "trust_change": 0.2,
+    "strategy_fit": 0.1,
+    "expression_normativity": 0.1
+  }
+}

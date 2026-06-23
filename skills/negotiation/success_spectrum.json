@@ -1,0 +1,2002 @@
+[
+  {
+    "goal": "negotiation.batna_strengthening",
+    "strategy": "好奇+稀缺",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776495457.811748
+  },
+  {
+    "goal": "negotiation.batna_strengthening",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776495474.3872683
+  },
+  {
+    "goal": "negotiation.interest_probing",
+    "strategy": "好奇+稀缺",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776495536.648505
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776496332.3091757
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776496332.3549335
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776496403.5325766
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776496403.551314
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776496651.076671
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776496651.1257792
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776496791.9388323
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776496791.9857693
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776497039.8065915
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776497039.8547444
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776497125.9926815
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776497126.0423667
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776497466.742604
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776497466.7899542
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776497775.6542375
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776497775.6967711
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776498239.6986992
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776498239.7494462
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776498317.1603386
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776498317.2058566
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776498697.159765
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776498697.207348
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776498810.1336863
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776498810.1808343
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776498953.1119242
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776498953.1315625
+  },
+  {
+    "goal": "negotiation.batna_strengthening",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776500516.999149
+  },
+  {
+    "goal": "negotiation.batna_strengthening",
+    "strategy": "好奇+稀缺",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776500548.3225672
+  },
+  {
+    "goal": "negotiation.batna_strengthening",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776500563.9404826
+  },
+  {
+    "goal": "negotiation.interest_probing",
+    "strategy": "好奇+稀缺",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776500607.9509497
+  },
+  {
+    "goal": "negotiation.batna_strengthening",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776503485.8004615
+  },
+  {
+    "goal": "negotiation.batna_strengthening",
+    "strategy": "好奇+稀缺",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776503522.3345149
+  },
+  {
+    "goal": "negotiation.batna_strengthening",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776503537.0688264
+  },
+  {
+    "goal": "negotiation.batna_strengthening",
+    "strategy": "好奇+稀缺",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776503568.8061447
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776505943.5454297
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776505943.5969808
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776506067.182794
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776506067.2028546
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776506993.0086405
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776506993.065814
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776507070.950773
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776507070.9726408
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776508144.6451335
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776508144.7414203
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776508222.8488274
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776508222.8742745
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776509000.7534204
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776509000.8266287
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776509364.3840315
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776509364.4107506
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776510550.9783971
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776510550.9991865
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776511588.4996278
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776511588.5504484
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776511796.705115
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776511796.727183
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776515357.567269
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776515357.5878515
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776516883.4136024
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776516883.4683125
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776517040.456684
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776517040.5392125
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776517357.5698514
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776517357.6231728
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776517462.9261022
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776517462.947989
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776518804.3781745
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776518804.4268346
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776518867.8109965
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776518867.868342
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776519683.0715144
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776519683.1251354
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776520057.322156
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776520057.3403502
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776522313.4610012
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776522313.4808476
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776523366.7044506
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776523366.7306757
+  },
+  {
+    "goal": "negotiation.anchor_reset",
+    "strategy": "商业谈判：扭转劣势",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776525075.0180728
+  },
+  {
+    "goal": "negotiation.anchor_reset",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "急躁",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776525111.8776822
+  },
+  {
+    "goal": "negotiation.anchor_reset",
+    "strategy": "纠正+设界",
+    "context": {
+      "emotion": "急躁",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776525185.6545157
+  },
+  {
+    "goal": "negotiation.anchor_reset",
+    "strategy": "商业谈判：扭转劣势",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776525200.4569902
+  },
+  {
+    "goal": "negotiation.batna_strengthening",
+    "strategy": "商业谈判：扭转劣势",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776528677.588774
+  },
+  {
+    "goal": "negotiation.batna_strengthening",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "急躁",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776528713.937567
+  },
+  {
+    "goal": "negotiation.batna_strengthening",
+    "strategy": "纠正+设界",
+    "context": {
+      "emotion": "急躁",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776528788.3062737
+  },
+  {
+    "goal": "negotiation.batna_strengthening",
+    "strategy": "商业谈判：扭转劣势",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776528803.723906
+  },
+  {
+    "goal": "negotiation.batna_strengthening",
+    "strategy": "纠正+设界",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776528823.032043
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776544716.7010982
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776544716.755298
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776544738.4329894
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776544738.4527605
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776544805.265467
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776544805.3579633
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776544826.823552
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776544826.8887472
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776544877.3639636
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776544877.4245994
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776544953.0925336
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776544953.1165776
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776545703.2841651
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776545703.307853
+  },
+  {
+    "goal": "negotiation.anchor_reset",
+    "strategy": "商业谈判：扭转劣势",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776547236.2267172
+  },
+  {
+    "goal": "negotiation.anchor_reset",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "急躁",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776547279.434315
+  },
+  {
+    "goal": "negotiation.anchor_reset",
+    "strategy": "纠正+设界",
+    "context": {
+      "emotion": "急躁",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776547357.9852054
+  },
+  {
+    "goal": "negotiation.anchor_reset",
+    "strategy": "商业谈判：扭转劣势",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776547370.7928574
+  },
+  {
+    "goal": "negotiation.anchor_reset",
+    "strategy": "商业谈判：扭转劣势",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776550223.8262765
+  },
+  {
+    "goal": "negotiation.interest_probing",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776550251.1186128
+  },
+  {
+    "goal": "negotiation.interest_probing",
+    "strategy": "纠正+设界",
+    "context": {
+      "emotion": "急躁",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776550315.6262982
+  },
+  {
+    "goal": "negotiation.interest_probing",
+    "strategy": "商业谈判：扭转劣势",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776550328.0660138
+  },
+  {
+    "goal": "negotiation.interest_probing",
+    "strategy": "纠正+设界",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776550343.7449675
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776564257.2131085
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776564257.2754192
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776564360.6383944
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776564360.6571858
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776565527.9283085
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776565527.9465463
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776565528.0078523
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776565528.0541074
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776569953.914389
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776569953.934706
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776569953.9758906
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776569953.9962373
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776580940.4351294
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776580940.4566553
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776581317.2994628
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776581317.3488812
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776581600.71364
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776581600.732886
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776581666.9917262
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776581667.0136352
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776582417.3700998
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776582417.391372
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776584318.770719
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776584318.7942824
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776584713.3992095
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776584713.4871342
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776585076.0997322
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776585076.2055023
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776585166.1415124
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776585166.207041
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776586105.8911197
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776586105.9414706
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776586510.9918892
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776586511.044854
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776588398.9302816
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776588398.9913828
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776591597.1858163
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776591597.2097166
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776591641.9849112
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776591642.0146163
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776591712.5156002
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776591712.5413747
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776591763.6608696
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776591763.6929734
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776595195.98744
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776595196.0096323
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776596916.0156333
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776596916.0407412
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776598322.5218723
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776598322.5437696
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776599045.335711
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776599045.3592935
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776672581.9229703
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776672581.9417477
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776672642.044383
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776672642.0635564
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776672780.5381775
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776672780.5564854
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776673290.8267317
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776673290.848209
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776701944.922325
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776701944.9423788
+  },
+  {
+    "goal": "negotiation.anchor_reset",
+    "strategy": "商业谈判：扭转劣势",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776703829.183286
+  },
+  {
+    "goal": "negotiation.anchor_reset",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "急躁",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776703864.3645556
+  },
+  {
+    "goal": "negotiation.batna_strengthening",
+    "strategy": "纠正+设界",
+    "context": {
+      "emotion": "急躁",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776703938.0662305
+  },
+  {
+    "goal": "negotiation.batna_strengthening",
+    "strategy": "商业谈判：扭转劣势",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776703951.0734453
+  },
+  {
+    "goal": "negotiation.anchor_reset",
+    "strategy": "商业谈判：扭转劣势",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776706760.9488368
+  },
+  {
+    "goal": "negotiation.anchor_reset",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "急躁",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776706792.4355943
+  },
+  {
+    "goal": "negotiation.anchor_reset",
+    "strategy": "纠正+设界",
+    "context": {
+      "emotion": "急躁",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776706850.9294577
+  },
+  {
+    "goal": "negotiation.anchor_reset",
+    "strategy": "商业谈判：扭转劣势",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776706863.4679534
+  },
+  {
+    "goal": "negotiation.anchor_reset",
+    "strategy": "纠正+设界",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776706877.7856345
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776992189.0067778
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776992189.1174912
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776992339.971424
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776992340.0544407
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776995415.7130623
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776995415.7589936
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776995673.1246886
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776995673.1692183
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776996328.3403072
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776996328.3807552
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776996782.669337
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776996782.7134018
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776996891.8129344
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776996891.8558471
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776997045.263239
+  },
+  {
+    "goal": "negotiation_followup",
+    "strategy": "条款对齐",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "medium"
+    },
+    "score": 0.0,
+    "timestamp": 1776997045.3063219
+  }
+]

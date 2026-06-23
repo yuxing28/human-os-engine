@@ -1,0 +1,22 @@
+{
+  "base_version": "unknown",
+  "evolved_at": "2026-04-08T07:25:51Z",
+  "iterations": 160,
+  "strategy_weights": {
+    "emotion.cognitive_reappraisal::": 0.4599999999999995,
+    "emotion.safety_screening::": 0.15000000000000002,
+    "emotion.physiological_soothing::": 0.47999999999999954,
+    "emotion.resource_management::": 0.48999999999999955,
+    "emotion.boundary_setting::": 0.6999999999999997,
+    "emotion::emotion.resource_management::": 0.7359999999999999,
+    "emotion::emotion.safety_screening::": 0.6117199999999998,
+    "emotion::emotion.cognitive_reappraisal::": 0.5507199999999998,
+    "emotion::emotion.boundary_setting::": 0.7839999999999998
+  },
+  "weapon_blacklist_additions": {},
+  "performance_metrics": {
+    "total_interactions": 160,
+    "success_count": 9,
+    "success_rate": 0.05625
+  }
+}

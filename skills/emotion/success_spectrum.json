@@ -1,0 +1,372 @@
+[
+  {
+    "goal": "emotion.repair_attempt_guide",
+    "strategy": "纠正+设界",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775916123.6155891
+  },
+  {
+    "goal": "emotion.repair_attempt_guide",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775916512.2487617
+  },
+  {
+    "goal": "emotion.repair_attempt_guide",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775916545.212651
+  },
+  {
+    "goal": "emotion.repair_attempt_guide",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775921382.0642462
+  },
+  {
+    "goal": "emotion.repair_attempt_guide",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775921411.10062
+  },
+  {
+    "goal": "emotion.repair_attempt_guide",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775921809.811766
+  },
+  {
+    "goal": "emotion.repair_attempt_guide",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775921844.618941
+  },
+  {
+    "goal": "emotion.repair_attempt_guide",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775926001.6565847
+  },
+  {
+    "goal": "emotion.repair_attempt_guide",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "迷茫",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775926548.164399
+  },
+  {
+    "goal": "emotion.repair_attempt_guide",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775953505.4938717
+  },
+  {
+    "goal": "emotion.repair_attempt_guide",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775953533.4880629
+  },
+  {
+    "goal": "emotion.repair_attempt_guide",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775953932.435821
+  },
+  {
+    "goal": "emotion.repair_attempt_guide",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775953962.7892585
+  },
+  {
+    "goal": "emotion.repair_attempt_guide",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775957302.114725
+  },
+  {
+    "goal": "emotion.repair_attempt_guide",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775957335.5012805
+  },
+  {
+    "goal": "emotion.repair_attempt_guide",
+    "strategy": "好奇+价值",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775957386.6027396
+  },
+  {
+    "goal": "emotion.repair_attempt_guide",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775957994.428465
+  },
+  {
+    "goal": "emotion.repair_attempt_guide",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775958029.04055
+  },
+  {
+    "goal": "emotion.repair_attempt_guide",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775958759.236791
+  },
+  {
+    "goal": "emotion.repair_attempt_guide",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775958792.7375085
+  },
+  {
+    "goal": "emotion.repair_attempt_guide",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "迷茫",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775959008.4748137
+  },
+  {
+    "goal": "emotion.repair_attempt_guide",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775960332.8001168
+  },
+  {
+    "goal": "emotion.repair_attempt_guide",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775960361.9774208
+  },
+  {
+    "goal": "emotion.repair_attempt_guide",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775960391.4934208
+  },
+  {
+    "goal": "emotion.repair_attempt_guide",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775961009.8805306
+  },
+  {
+    "goal": "emotion.repair_attempt_guide",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775961044.3059218
+  },
+  {
+    "goal": "emotion.repair_attempt_guide",
+    "strategy": "懒惰+互惠",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775961221.6960208
+  },
+  {
+    "goal": "emotion.repair_attempt_guide",
+    "strategy": "懒惰+互惠",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775961246.8105507
+  },
+  {
+    "goal": "emotion.repair_attempt_guide",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775964068.7788208
+  },
+  {
+    "goal": "emotion.repair_attempt_guide",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775964467.439289
+  },
+  {
+    "goal": "emotion.repair_attempt_guide",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775964497.1650505
+  },
+  {
+    "goal": "emotion.repair_attempt_guide",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775966246.0920627
+  },
+  {
+    "goal": "emotion.repair_attempt_guide",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775966277.9047825
+  },
+  {
+    "goal": "emotion.repair_attempt_guide",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775967193.3453522
+  },
+  {
+    "goal": "emotion.repair_attempt_guide",
+    "strategy": "共情+正常化",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1775967221.5953903
+  },
+  {
+    "goal": "emotion.repair_attempt_guide",
+    "strategy": "纠正+设界",
+    "context": {
+      "emotion": "平静",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776001213.8012772
+  },
+  {
+    "goal": "emotion.repair_attempt_guide",
+    "strategy": "动态组合",
+    "context": {
+      "emotion": "迷茫",
+      "trust_level": "high"
+    },
+    "score": 0.0,
+    "timestamp": 1776001875.9888723
+  }
+]
